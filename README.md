@@ -66,59 +66,15 @@ The analysis was carried out in multiple stages:
 * **Readmissions**: Patients under **dentistry and Pyscjiatry** specialties show more repeat visits.
 * **Predictive Modeling**: Age, admission type, and prior hospitalizations are strong predictors of length of stay.
 
----
-
-## 📂 Repository Structure
-
-```
-medical-data-analysis/
-│
-├── data/                   # Raw and processed data
-├── notebooks/              # Jupyter notebooks for cleaning, EDA, modeling
-├── src/                    # Python scripts (preprocessing, eda, modeling, viz)
-├── reports/                # Figures and summary reports
-├── requirements.txt        # Dependencies
-├── README.md               # Project overview
-├── LICENSE                 # License
-└── .gitignore              # Files to ignore
-```
-
----
-
-## 🚀 How to Run
-
-1. Clone this repository
-
-   ```bash
-   git clone https://github.com/your-username/medical-data-analysis.git
-   cd medical-data-analysis
-   ```
-
-2. Install dependencies
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open notebooks for analysis
-
-   ```bash
-   jupyter notebook
-   ```
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
----
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements.
 
----
 
 ## 🙌 Acknowledgments
 
